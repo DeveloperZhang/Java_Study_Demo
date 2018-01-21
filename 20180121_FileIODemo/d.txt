@@ -1,0 +1,2 @@
+普通字符串
+FileIO.FileIOTest@75412c2f
